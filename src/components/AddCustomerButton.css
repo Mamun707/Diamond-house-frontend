@@ -1,0 +1,17 @@
+.addcustomerbutton button {
+  border: 1px solid #394c60;
+  box-sizing: border-box;
+  border-radius: 5px;
+  /* padding: 10px; */
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 18px;
+  background-color: #ef2e78;
+  color: #ffffffff;
+  font-weight: 500;
+  width: 100%;
+  cursor: pointer;
+}

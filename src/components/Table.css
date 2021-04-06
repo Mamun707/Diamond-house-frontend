@@ -1,0 +1,38 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.data {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.data-title {
+  padding: 10px;
+
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.data-header {
+  background: #394c60;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.action {
+  cursor: pointer;
+}
+.user {
+  background: #ffffff;
+}
+.data-title button {
+  width: 100%;
+  padding: 6px;
+  background: #ef2e78;
+  color: #ffffff;
+  font-weight: 500;
+  border-radius: 5px;
+  border: none;
+}

@@ -1,0 +1,82 @@
+.title {
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.form {
+  background: #ffffff;
+  box-shadow: 0px 0px 5px rgb(0 0 0 / 15%);
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+input[type="text"] {
+  width: 100%;
+  background: #f8f8fb;
+  border: 1px solid #cfcfdd;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+input[type="date"] {
+  width: 100%;
+
+  background: #f8f8fb;
+  border: 1px solid #cfcfdd;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px;
+
+  font-size: 15px;
+  color: #777777;
+}
+
+.name {
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.birth {
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.anniversary {
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.mobile {
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.address {
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.submit {
+  text-align: center;
+  margin-top: 20px;
+}
+input[type="submit"] {
+  background: #ef2e78;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: none;
+  cursor: pointer;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.form-title {
+  padding-bottom: 2px;
+}

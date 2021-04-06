@@ -1,0 +1,23 @@
+.dashboard-style {
+  padding: 10px;
+}
+.c-title {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.All-Customer {
+  background-color: #ffffffff;
+  margin-top: 25px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.a-title p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.a-title hr {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "Id": 1,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Diamond",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 2,
+
+    "Name": "Saleh Ahmed",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "01710083947",
+    "Membership": "Silver",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 3,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Diamond",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 4,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Silver",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 5,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Diamond",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 6,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Silver",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 7,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Silver",
+    "Last_Shopping": "12 Feb 2021"
+  },
+  {
+    "Id": 8,
+    "Name": "Sanjida Afrin",
+    "Date_Of_Birth": "14 Mar 1994",
+    "Anniversary": "25 Jan 1995",
+    "Mobile_No": "8401275641",
+    "Membership": "Silver",
+    "Last_Shopping": "12 Feb 2021"
+  }
+]
